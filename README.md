@@ -102,7 +102,6 @@ We compared this approach with multiple baselines, including VGG16 alone, AlexNe
 ├── VGG_SVM12.ipynb      # Main notebook (Google Colab)
 ├── report.pdf          # Full written report in Persian
 ├── README.md            # This file
-└── dataset/             # (Not included, see Kaggle link)
 ```
 
 ---
